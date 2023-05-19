@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamoudiAnas
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently working as a front end freelancer at Upwork
-- 😁 Portfolio at: https://samoudianas.com
+- 😁 Portfolio at: https://samoudianas.dev
 - 📫 How to reach me ... 
   * You can email me at : imanassamoudi@gmail.com
 
