@@ -75,8 +75,8 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=SamoudiAnas&label=Profile%20Views&color=9&icon=6&pretty=false)
-  
+[![](https://visitcount.itsvg.in/api?id=SamoudiAnas&label=Profile%20Views&color=9&icon=6&pretty=false)](https://visitcount.itsvg.in)
+
 </div>
 
 <!--horizontal divider(gradiant)-->
