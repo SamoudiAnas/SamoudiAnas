@@ -32,7 +32,9 @@
 
 - ☁️ I've keen interest in web design.
 
-- 📫 Feel free to reach me out **imanassamoudi@gmail.com**
+- 📫 Feel free to reach me out **contact@samoudianas.dev**
+  
+- 📫 My Portfolio: **http://samoudianas.dev**
 
 <!--Intro end-->
 
