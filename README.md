@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Next.js, Astro, TailwindCSS, Nodejs, MongoDB**
+- 🔭 I’m currently working with **React, Next.js, Astro, Typescript, Redux TailwindCSS, Nodejs, MongoDB**
 
 - 🌱 I’m currently learning **different frameworks others than React**
 
