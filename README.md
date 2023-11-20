@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working with **React, Next.js, Astro, Typescript, Redux TailwindCSS, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **differenttesting libraries**
+- 🌱 I’m currently learning **different testing libraries**
 
 - ☁️ I've keen interest in web design.
 
